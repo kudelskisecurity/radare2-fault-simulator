@@ -33,8 +33,6 @@ The fault model are defined in the **glitch.py** module. New fault models may be
 
 The success condition is defined in the **conditions** function of **glitchoz0r3k.py** module.
 
-After usage run the **r2kill.sh** script in order to terminate all the process launched.
-
 ## Test
 
 The **target_glitch.py** script runs the x86-64 example:
