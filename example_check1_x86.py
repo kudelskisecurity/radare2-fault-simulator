@@ -4,7 +4,7 @@ glitchoz0r3k.GLITCHES = [glitchoz0r3k.glitch.Skip]
 
 g = glitchoz0r3k.Glitchozor()
 
-g.open('testcases/check1_x86.elf')
+g.open('testcases/check1_x64.elf')
 g.set_start(0x00001306)
 g.set_end(0x00001357)
 
